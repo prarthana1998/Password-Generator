@@ -9,7 +9,7 @@ This web application is a password generator that generates a random password ba
 - Validation for password length and character type selection.
 - Password generation with specified criteria.
 
-![Password-Generator](.assets/passwordgenerator.png)
+![Password-Generator](assets/passwordgenerator.png)
 
 # Application URL
 https://prarthana1998.github.io/Password-Generator/
